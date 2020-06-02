@@ -4,3 +4,5 @@ Plugin constains following [Template Tags](https://support.insomnia.rest/article
 
 ## Port or default (`portOr`)
 Uses default port value if not overriden by another (eg. ENV) variable
+
+![portOr looks like](portOr.jpg)
