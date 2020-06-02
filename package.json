@@ -1,0 +1,11 @@
+{
+  "name": "insomnia-plugin-default-or",
+  "version": "1.0.2",
+  "author": "pieszynski",
+  "license": "MIT",
+  "insomnia": {
+    "name": "default-or",
+    "description": "Use default value or override it with ENV variable"
+  },
+  "main": "main.js"
+}
